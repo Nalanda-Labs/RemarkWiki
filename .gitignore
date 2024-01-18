@@ -1,0 +1,10 @@
+.vscode
+.env
+__pycache__/
+node_modules/
+.svelte-kit/
+kunjika.egg-info/
+build/
+template.json
+target
+venv/
